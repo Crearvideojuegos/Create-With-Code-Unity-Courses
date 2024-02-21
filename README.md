@@ -1,7 +1,7 @@
 
 # Create with Code Unity Official Courses
 
-[![X](https://img.shields.io/badge/Follow%20%40iwritegames-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/crearvideojuego)
+[![X](https://img.shields.io/badge/Follow%20%40CrearVideojuego-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/crearvideojuego)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/crearvideojuegos)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRFsluuJre6OWpiT1hFJmjA?sub_confirmation=1)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://crearvideojuegos.itch.io/)
